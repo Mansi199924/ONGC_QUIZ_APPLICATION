@@ -1,3 +1,5 @@
+![image](https://github.com/Mansi199924/ONGC_QUIZ_APPLICATION/assets/51586639/f6724c72-c6bf-4600-943e-08393034b41e)
+
 ########To Run
 create a new database named "quiz" and then import the quiz.sql file
 
