@@ -1,5 +1,7 @@
 ![image](https://github.com/Mansi199924/ONGC_QUIZ_APPLICATION/assets/51586639/f6724c72-c6bf-4600-943e-08393034b41e)
 
+Cerificate Link: https://drive.google.com/file/d/1NC9Ajqg7LmRCaU5gxWLmt5Twi_p6qnpM/view?usp=sharing
+
 ########To Run
 create a new database named "quiz" and then import the quiz.sql file
 
